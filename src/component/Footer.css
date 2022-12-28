@@ -1,0 +1,27 @@
+.Footer{
+ background-color: black;
+ position: relative;
+ bottom: 0;
+ width: 70%;
+ height: auto;
+ margin: auto;
+ padding: 20px 0;
+ color: white;
+ text-align: center;
+}
+
+.Footer .contact-links {
+ display: flex;
+ justify-content: center;
+ gap: 15px;
+ margin: 20px;
+}
+
+.contact-links .icon{
+  background-color: #303030;
+  padding: 0 7px;
+  text-decoration: none;
+  color: white;
+  border-radius: 6px;
+  margin: 0;
+}

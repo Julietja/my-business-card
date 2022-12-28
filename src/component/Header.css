@@ -1,0 +1,18 @@
+
+.Header{
+ background-color: black;
+ position: relative;
+ color: white;
+ width: 67%;
+ margin: auto;
+ padding: 20px 10px ;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+
+.Header ul{
+ list-style: none;
+ display: flex;
+ gap: 15px
+}
